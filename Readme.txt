@@ -9,10 +9,3 @@
 
 <h4>하단에 있는 부분이 clone git 정보 입니다.</h4>
 <h4>The part at the bottom is clone git information.</h4>
-
-Thanks for downloading this template!
-
-Template Name: MyResume
-Template URL: https://bootstrapmade.com/free-html-bootstrap-template-my-resume/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
